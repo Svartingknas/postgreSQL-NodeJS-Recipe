@@ -1,0 +1,29 @@
+{
+  "name": "postgresql-nodejs-recipe",
+  "version": "1.0.0",
+  "description": "recipe manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svartingknas/postgreSQL-NodeJS-Recipe.git"
+  },
+  "author": "svartingknas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Svartingknas/postgreSQL-NodeJS-Recipe/issues"
+  },
+  "homepage": "https://github.com/Svartingknas/postgreSQL-NodeJS-Recipe#readme",
+  "dependencies": {
+    "body-parser": "*",
+    "consolidate": "*",
+    "dust": "*",
+    "dustjs-helpers": "*",
+    "dustjs-linkedin": "*",
+    "express": "*",
+    "pg": "*"
+  },
+  "devDependencies": {}
+}
